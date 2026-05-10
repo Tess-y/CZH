@@ -1,0 +1,2334 @@
+[CustomCards]
+	[    {
+	        "name": "Line of Succession",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Line%20of%20Succession.png"
+	        }
+	    },
+	    {
+	        "name": "Teferi, Protector of the City",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}{U}",
+	        "type": "Legendary Planeswalker — Teferi ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Teferi%2c%20Protector%20of%20the%20City.png"
+	        }
+	    },
+	    {
+	        "name": "Nerys, Loyal to the Crown",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{B}",
+	        "type": "Legendary Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Nerys%2c%20Loyal%20to%20the%20Crown.png"
+	        }
+	    },
+	    {
+	        "name": "Teferi's Undoing",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Teferi%27s%20Undoing.png"
+	        }
+	    },
+	    {
+	        "name": "Teferi's Protection",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Teferi%27s%20Protection.png"
+	        }
+	    },
+	    {
+	        "name": "Queen's Guard",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Queen%27s%20Guard.png"
+	        }
+	    },
+	    {
+	        "name": "Riot Instigator",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{R}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Riot%20Instigator.png"
+	        }
+	    },
+	    {
+	        "name": "“Someone's Gonna Die”",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CSomeone%27s%20Gonna%20Die”.png"
+	        }
+	    },
+	    {
+	        "name": "Reinstantiate",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Reinstantiate.png"
+	        }
+	    },
+	    {
+	        "name": "“Phase Dork”",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CPhase%20Dork”.png"
+	        }
+	    },
+	    {
+	        "name": "Rift Tainted Advisor",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Rift%20Tainted%20Advisor.png"
+	        }
+	    },
+	    {
+	        "name": "Cease Existence",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{U}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Cease%20Existence.png"
+	        }
+	    },
+	    {
+	        "name": "Down With the Queen",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Down%20With%20the%20Queen.png"
+	        }
+	    },
+	    {
+	        "name": "“Majesty's Librarian”",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CMajesty%27s%20Librarian”.png"
+	        }
+	    },
+	    {
+	        "name": "Endless Revolution",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Endless%20Revolution.png"
+	        }
+	    },
+	    {
+	        "name": "Corrupted Delegate",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{U}{R}",
+	        "type": "Creature — Human Rogue Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Corrupted%20Delegate.png"
+	        }
+	    },
+	    {
+	        "name": "Crownbreaker's Forest",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{G}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Crownbreaker%27s%20Forest.png"
+	        }
+	    },
+	    {
+	        "name": "“Crown Taker”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CCrown%20Taker”.png"
+	        }
+	    },
+	    {
+	        "name": "“Monarch Shock”",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CMonarch%20Shock”.png"
+	        }
+	    },
+	    {
+	        "name": "“Monarch's Blade”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CMonarch%27s%20Blade”.png"
+	        }
+	    },
+	    {
+	        "name": "Dissuading Advice",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Dissuading%20Advice.png"
+	        }
+	    },
+	    {
+	        "name": "Long Live the Queen",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Long%20Live%20the%20Queen.png"
+	        }
+	    },
+	    {
+	        "name": "“Royal Beating”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CRoyal%20Beating”.png"
+	        }
+	    },
+	    {
+	        "name": "Zhalfiran Rift",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Legendary Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Zhalfiran%20Rift.png"
+	        }
+	    },
+	    {
+	        "name": "Loyalist Frost-Mage",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Human Wizard Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Loyalist%20Frost-Mage.png"
+	        }
+	    },
+	    {
+	        "name": "Royal Assassination",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Royal%20Assassination.png"
+	        }
+	    },
+	    {
+	        "name": "Rumor Network",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Rumor%20Network.png"
+	        }
+	    },
+	    {
+	        "name": "Usurp the Throne",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Usurp%20the%20Throne.png"
+	        }
+	    },
+	    {
+	        "name": "Day of Peace",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Day%20of%20Peace.png"
+	        }
+	    },
+	    {
+	        "name": "Spark Rebellion",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Spark%20Rebellion.png"
+	        }
+	    },
+	    {
+	        "name": "Loyalty to the Throne",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Loyalty%20to%20the%20Throne.png"
+	        }
+	    },
+	    {
+	        "name": "Coronation Ceremony",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Coronation%20Ceremony.png"
+	        }
+	    },
+	    {
+	        "name": "Alert the Guard",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Alert%20the%20Guard.png"
+	        }
+	    },
+	    {
+	        "name": "Royal Knighting",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Royal%20Knighting.png"
+	        }
+	    },
+	    {
+	        "name": "Knight of the Royal Guard",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Knight%20of%20the%20Royal%20Guard.png"
+	        }
+	    },
+	    {
+	        "name": "High Throne of Zhalfir",
+	        "rarity": "rare",
+	        "mana_cost": "{3}",
+	        "type": "Legendary Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/High%20Throne%20of%20Zhalfir.png"
+	        }
+	    },
+	    {
+	        "name": "Crown-Breaker Recruit",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Rebel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Crown-Breaker%20Recruit.png"
+	        }
+	    },
+	    {
+	        "name": "Royal Accountant",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Skeleton Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Royal%20Accountant.png"
+	        }
+	    },
+	    {
+	        "name": "Tithes for the Throne",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Tithes%20for%20the%20Throne.png"
+	        }
+	    },
+	    {
+	        "name": "Council's Renovations",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Conspiracy",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Council%27s%20Renovations.png"
+	        }
+	    },
+	    {
+	        "name": "Birthright",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Conspiracy",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Birthright.png"
+	        }
+	    },
+	    {
+	        "name": "Nature's Anarchy",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Conspiracy",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Nature%27s%20Anarchy.png"
+	        }
+	    },
+	    {
+	        "name": "Convening of the Council",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Conspiracy",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Convening%20of%20the%20Council.png"
+	        }
+	    },
+	    {
+	        "name": "Shaper Guild's Council",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Conspiracy",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Shaper%20Guild%27s%20Council.png"
+	        }
+	    },
+	    {
+	        "name": "Armorer Guild's Council",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Conspiracy",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Armorer%20Guild%27s%20Council.png"
+	        }
+	    },
+	    {
+	        "name": "Shadow Guild's Council",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Conspiracy",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Shadow%20Guild%27s%20Council.png"
+	        }
+	    },
+	    {
+	        "name": "Civic Guild's Council",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Conspiracy",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Civic%20Guild%27s%20Council.png"
+	        }
+	    },
+	    {
+	        "name": "Granger Guild's Council",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Conspiracy",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Granger%20Guild%27s%20Council.png"
+	        }
+	    },
+	    {
+	        "name": "The Rift's Influence",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Conspiracy",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/The%20Rift%27s%20Influence.png"
+	        }
+	    },
+	    {
+	        "name": "Emergency Council",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Conspiracy",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Emergency%20Council.png"
+	        }
+	    },
+	    {
+	        "name": "Terrain Seeker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Terrain%20Seeker.png"
+	        }
+	    },
+	    {
+	        "name": "Zhalfirin Library",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Zhalfirin%20Library.png"
+	        }
+	    },
+	    {
+	        "name": "Wolf Caller",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Legendary Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Wolf%20Caller.png"
+	        }
+	    },
+	    {
+	        "name": "Forming of the Guilds",
+	        "rarity": "rare",
+	        "mana_cost": "{5}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Forming%20of%20the%20Guilds.png"
+	        }
+	    },
+	    {
+	        "name": "Sentenced to Death",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Conspiracy",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Sentenced%20to%20Death.png"
+	        }
+	    },
+	    {
+	        "name": "Granger Archmage",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Granger%20Archmage.png"
+	        }
+	    },
+	    {
+	        "name": "Civic Archmage",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Civic%20Archmage.png"
+	        }
+	    },
+	    {
+	        "name": "Armorer Archmage",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}{R}{R}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Armorer%20Archmage.png"
+	        }
+	    },
+	    {
+	        "name": "Forge Master",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Legendary Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Forge%20Master.png"
+	        }
+	    },
+	    {
+	        "name": "Essence Shape",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Essence%20Shape.png"
+	        }
+	    },
+	    {
+	        "name": "Cloak of Darkness",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Cloak%20of%20Darkness.png"
+	        }
+	    },
+	    {
+	        "name": "Time Flux",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Time%20Flux.png"
+	        }
+	    },
+	    {
+	        "name": "Peacekeeper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Peacekeeper.png"
+	        }
+	    },
+	    {
+	        "name": "Kiingal Assasin",
+	        "rarity": "common",
+	        "mana_cost": "{B}{B}",
+	        "type": "Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Kiingal%20Assasin.png"
+	        }
+	    },
+	    {
+	        "name": "Mhagru, Grave Caller",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{B}{B}",
+	        "type": "Legendary Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Mhagru%2c%20Grave%20Caller.png"
+	        }
+	    },
+	    {
+	        "name": "“Gardener”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CGardener”.png"
+	        }
+	    },
+	    {
+	        "name": "Soulbound Blade",
+	        "rarity": "rare",
+	        "mana_cost": "{5}",
+	        "type": "Legendary Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Soulbound%20Blade.png"
+	        }
+	    },
+	    {
+	        "name": "“Platinum Throne”",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CPlatinum%20Throne”.png"
+	        }
+	    },
+	    {
+	        "name": "The High Council",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{G}{W}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/The%20High%20Council.png"
+	        }
+	    },
+	    {
+	        "name": "Loyalist Legion",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Loyalist%20Legion.png"
+	        }
+	    },
+	    {
+	        "name": "Council Archivist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Council%20Archivist.png"
+	        }
+	    },
+	    {
+	        "name": "Master War Smith",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Legendary Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Master%20War%20Smith.png"
+	        }
+	    },
+	    {
+	        "name": "“Shifting Blade”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CShifting%20Blade”.png"
+	        }
+	    },
+	    {
+	        "name": "Forest's Protection",
+	        "rarity": "common",
+	        "mana_cost": "{G}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Forest%27s%20Protection.png"
+	        }
+	    },
+	    {
+	        "name": "Strength of the Guilds",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Strength%20of%20the%20Guilds.png"
+	        }
+	    },
+	    {
+	        "name": "“Hidden Card Thief”",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CHidden%20Card%20Thief”.png"
+	        }
+	    },
+	    {
+	        "name": "Blood Stone",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Blood%20Stone.png"
+	        }
+	    },
+	    {
+	        "name": "Companion Stone",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Companion%20Stone.png"
+	        }
+	    },
+	    {
+	        "name": "Thought Stone",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Thought%20Stone.png"
+	        }
+	    },
+	    {
+	        "name": "Essence Stone",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Essence%20Stone.png"
+	        }
+	    },
+	    {
+	        "name": "Rage Stone",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Rage%20Stone.png"
+	        }
+	    },
+	    {
+	        "name": "Horror of Crownbreakers Forest",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Beast Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Horror%20of%20Crownbreakers%20Forest.png"
+	        }
+	    },
+	    {
+	        "name": "“Golem Lord”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Artifact Creature — Golem ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CGolem%20Lord”.png"
+	        }
+	    },
+	    {
+	        "name": "Forge Armor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Forge%20Armor.png"
+	        }
+	    },
+	    {
+	        "name": "Apprentice Armorer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Apprentice%20Armorer.png"
+	        }
+	    },
+	    {
+	        "name": "Crown Breaker",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Crown%20Breaker.png"
+	        }
+	    },
+	    {
+	        "name": "Warden of Growth",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Warden%20of%20Growth.png"
+	        }
+	    },
+	    {
+	        "name": "“Sword of War”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CSword%20of%20War”.png"
+	        }
+	    },
+	    {
+	        "name": "Nature's Uprising",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Nature%27s%20Uprising.png"
+	        }
+	    },
+	    {
+	        "name": "Hate-Fused Blade",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Hate-Fused%20Blade.png"
+	        }
+	    },
+	    {
+	        "name": "Bound to the Rift",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Bound%20to%20the%20Rift.png"
+	        }
+	    },
+	    {
+	        "name": "“Be Gone Works of Man”",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CBe%20Gone%20Works%20of%20Man”.png"
+	        }
+	    },
+	    {
+	        "name": "Riftquake",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Riftquake.png"
+	        }
+	    },
+	    {
+	        "name": "Yormeba, Heir to the Throne",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Legendary Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Yormeba%2c%20Heir%20to%20the%20Throne.png"
+	        }
+	    },
+	    {
+	        "name": "Prosperous Growth",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Prosperous%20Growth.png"
+	        }
+	    },
+	    {
+	        "name": "“Hidden Cut”",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CHidden%20Cut”.png"
+	        }
+	    },
+	    {
+	        "name": "Lavessa's Envoy",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Lavessa%27s%20Envoy.png"
+	        }
+	    },
+	    {
+	        "name": "Palace Rot-Gardener",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Palace%20Rot-Gardener.png"
+	        }
+	    },
+	    {
+	        "name": "“Menace to the Throne”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CMenace%20to%20the%20Throne”.png"
+	        }
+	    },
+	    {
+	        "name": "Crownbreaker Foundry",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{G}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Crownbreaker%20Foundry.png"
+	        }
+	    },
+	    {
+	        "name": "“Monarch Based Pillow Fort”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CMonarch%20Based%20Pillow%20Fort”.png"
+	        }
+	    },
+	    {
+	        "name": "Shatter the Throne",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Shatter%20the%20Throne.png"
+	        }
+	    },
+	    {
+	        "name": "Shadowsculptor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{B}",
+	        "type": "Creature — Human Rogue Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Shadowsculptor.png"
+	        }
+	    },
+	    {
+	        "name": "Blade of Heros",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Blade%20of%20Heros.png"
+	        }
+	    },
+	    {
+	        "name": "“Resurrection!”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CResurrection!”.png"
+	        }
+	    },
+	    {
+	        "name": "“Knights and Ramp”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CKnights%20and%20Ramp”.png"
+	        }
+	    },
+	    {
+	        "name": "Assault Captain",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{W}",
+	        "type": "Legendary Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Assault%20Captain.png"
+	        }
+	    },
+	    {
+	        "name": "Shifting Steelsculpt",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Shifting%20Steelsculpt.png"
+	        }
+	    },
+	    {
+	        "name": "Crown-hunter's Frenzy",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Crown-hunter%27s%20Frenzy.png"
+	        }
+	    },
+	    {
+	        "name": "Alicia, Sworn to the Queen",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Legendary Planeswalker — Alicia ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Alicia%2c%20Sworn%20to%20the%20Queen.png"
+	        }
+	    },
+	    {
+	        "name": "Zett, The Bloody Hilt",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Legendary Planeswalker — Zett ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Zett%2c%20The%20Bloody%20Hilt.png"
+	        }
+	    },
+	    {
+	        "name": "Shadow Archmage",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Shadow%20Archmage.png"
+	        }
+	    },
+	    {
+	        "name": "Shaper Archmage",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Shaper%20Archmage.png"
+	        }
+	    },
+	    {
+	        "name": "Palace High Guard",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Palace%20High%20Guard.png"
+	        }
+	    },
+	    {
+	        "name": "Patrol General",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Patrol%20General.png"
+	        }
+	    },
+	    {
+	        "name": "Court's Impasse",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Court%27s%20Impasse.png"
+	        }
+	    },
+	    {
+	        "name": "Glade-Skin Univolk",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Glade-Skin%20Univolk.png"
+	        }
+	    },
+	    {
+	        "name": "Nature's Might",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{X}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Nature%27s%20Might.png"
+	        }
+	    },
+	    {
+	        "name": "Molten Blast",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Molten%20Blast.png"
+	        }
+	    },
+	    {
+	        "name": "Volt-Surge Dagger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Volt-Surge%20Dagger.png"
+	        }
+	    },
+	    {
+	        "name": "Arc Blade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Arc%20Blade.png"
+	        }
+	    },
+	    {
+	        "name": "Instigate",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Instigate.png"
+	        }
+	    },
+	    {
+	        "name": "“Kill for the Thrown”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CKill%20for%20the%20Thrown”.png"
+	        }
+	    },
+	    {
+	        "name": "“Stabby Stab”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CStabby%20Stab”.png"
+	        }
+	    },
+	    {
+	        "name": "Palace Crypt",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{B}{B}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Palace%20Crypt.png"
+	        }
+	    },
+	    {
+	        "name": "“Card Draw, Creaure Included”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CCard%20Draw%2c%20Creaure%20Included”.png"
+	        }
+	    },
+	    {
+	        "name": "“My Crown, Not Yours”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CMy%20Crown%2c%20Not%20Yours”.png"
+	        }
+	    },
+	    {
+	        "name": "“Stop Attacking Me”",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CStop%20Attacking%20Me”.png"
+	        }
+	    },
+	    {
+	        "name": "Gatehouse Sentinel",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Gatehouse%20Sentinel.png"
+	        }
+	    },
+	    {
+	        "name": "Golden Pegasus",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Pegasus ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Golden%20Pegasus.png"
+	        }
+	    },
+	    {
+	        "name": "Castle Sentry",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Castle%20Sentry.png"
+	        }
+	    },
+	    {
+	        "name": "Prepared Defenses",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Prepared%20Defenses.png"
+	        }
+	    },
+	    {
+	        "name": "Endless Festivities",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Endless%20Festivities.png"
+	        }
+	    },
+	    {
+	        "name": "Disenchant",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Disenchant.png"
+	        }
+	    },
+	    {
+	        "name": "“Rejuvenating Soldier”",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CRejuvenating%20Soldier”.png"
+	        }
+	    },
+	    {
+	        "name": "“Helping Flyer”",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CHelping%20Flyer”.png"
+	        }
+	    },
+	    {
+	        "name": "Shaper Apprentice",
+	        "rarity": "common",
+	        "mana_cost": "{U}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Shaper%20Apprentice.png"
+	        }
+	    },
+	    {
+	        "name": "Guard Golem",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Artifact Creature — Golem ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Guard%20Golem.png"
+	        }
+	    },
+	    {
+	        "name": "Otherworldly Fae",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Faerie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Otherworldly%20Fae.png"
+	        }
+	    },
+	    {
+	        "name": "Disinstantiate",
+	        "rarity": "common",
+	        "mana_cost": "{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Disinstantiate.png"
+	        }
+	    },
+	    {
+	        "name": "“Slow Counter”",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CSlow%20Counter”.png"
+	        }
+	    },
+	    {
+	        "name": "Cyclical Visions",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Cyclical%20Visions.png"
+	        }
+	    },
+	    {
+	        "name": "Wall of Void",
+	        "rarity": "common",
+	        "mana_cost": "{U}{U}",
+	        "type": "Creature — Wall ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Wall%20of%20Void.png"
+	        }
+	    },
+	    {
+	        "name": "Ripped from Reality",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{U}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Ripped%20from%20Reality.png"
+	        }
+	    },
+	    {
+	        "name": "Void Giant",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}{U}{U}",
+	        "type": "Creature — Giant Serpent ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Void%20Giant.png"
+	        }
+	    },
+	    {
+	        "name": "Search for Knowledge",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Search%20for%20Knowledge.png"
+	        }
+	    },
+	    {
+	        "name": "“Mind Rot, But Its a Creature Now”",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CMind%20Rot%2c%20But%20Its%20a%20Creature%20Now”.png"
+	        }
+	    },
+	    {
+	        "name": "Lavessa's Assassin",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Lavessa%27s%20Assassin.png"
+	        }
+	    },
+	    {
+	        "name": "Ritual Culling",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Ritual%20Culling.png"
+	        }
+	    },
+	    {
+	        "name": "Path of Shadow",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Path%20of%20Shadow.png"
+	        }
+	    },
+	    {
+	        "name": "Oblational Killing",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Oblational%20Killing.png"
+	        }
+	    },
+	    {
+	        "name": "Coffin Upheaval",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Coffin%20Upheaval.png"
+	        }
+	    },
+	    {
+	        "name": "Shadow Guild Blackhand",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Shadow%20Guild%20Blackhand.png"
+	        }
+	    },
+	    {
+	        "name": "Reconstructed Skeleton",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Skeleton ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Reconstructed%20Skeleton.png"
+	        }
+	    },
+	    {
+	        "name": "Dark Cleric",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Dark%20Cleric.png"
+	        }
+	    },
+	    {
+	        "name": "Murderous Preparation",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Murderous%20Preparation.png"
+	        }
+	    },
+	    {
+	        "name": "Rebellious Pyromancer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Rebellious%20Pyromancer.png"
+	        }
+	    },
+	    {
+	        "name": "War Goblin",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Goblin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/War%20Goblin.png"
+	        }
+	    },
+	    {
+	        "name": "Arm for War",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Arm%20for%20War.png"
+	        }
+	    },
+	    {
+	        "name": "Act of Violence",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Act%20of%20Violence.png"
+	        }
+	    },
+	    {
+	        "name": "“Bold of Appointing”",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CBold%20of%20Appointing”.png"
+	        }
+	    },
+	    {
+	        "name": "Laccolith Rig",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Laccolith%20Rig.png"
+	        }
+	    },
+	    {
+	        "name": "“Monarch Bringer”",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CMonarch%20Bringer”.png"
+	        }
+	    },
+	    {
+	        "name": "“Crown Giver”",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CCrown%20Giver”.png"
+	        }
+	    },
+	    {
+	        "name": "Searing Halberd",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Searing%20Halberd.png"
+	        }
+	    },
+	    {
+	        "name": "Lightning Charger",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Lightning%20Charger.png"
+	        }
+	    },
+	    {
+	        "name": "“Freedom Fighter”",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Human Rebel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CFreedom%20Fighter”.png"
+	        }
+	    },
+	    {
+	        "name": "Forest's Strength",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Forest%27s%20Strength.png"
+	        }
+	    },
+	    {
+	        "name": "“Mana Dork”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{G}",
+	        "type": "Creature — Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CMana%20Dork”.png"
+	        }
+	    },
+	    {
+	        "name": "Adventuring Grazer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Adventuring%20Grazer.png"
+	        }
+	    },
+	    {
+	        "name": "Deadly Recluse",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Spider ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Deadly%20Recluse.png"
+	        }
+	    },
+	    {
+	        "name": "Oscillating Growth",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Oscillating%20Growth.png"
+	        }
+	    },
+	    {
+	        "name": "Invigorate",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Invigorate.png"
+	        }
+	    },
+	    {
+	        "name": "Wild Wolf",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Wild%20Wolf.png"
+	        }
+	    },
+	    {
+	        "name": "Arbor Elf",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Arbor%20Elf.png"
+	        }
+	    },
+	    {
+	        "name": "“Cycling wurm”",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Wurm ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CCycling%20wurm”.png"
+	        }
+	    },
+	    {
+	        "name": "Avatar of Anarchy",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{G}{G}{G}",
+	        "type": "Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Avatar%20of%20Anarchy.png"
+	        }
+	    },
+	    {
+	        "name": "Crown Taker's Dagger",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Crown%20Taker%27s%20Dagger.png"
+	        }
+	    },
+	    {
+	        "name": "“Champion Equipment”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CChampion%20Equipment”.png"
+	        }
+	    },
+	    {
+	        "name": "Dagger of Darkness",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Dagger%20of%20Darkness.png"
+	        }
+	    },
+	    {
+	        "name": "Makeshift Flail",
+	        "rarity": "rare",
+	        "mana_cost": "{4}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Makeshift%20Flail.png"
+	        }
+	    },
+	    {
+	        "name": "“Blade of Swiftness”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CBlade%20of%20Swiftness”.png"
+	        }
+	    },
+	    {
+	        "name": "“Red Flip Conspiracy”",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Conspiracy",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CRed%20Flip%20Conspiracy”.png"
+	        }
+	    },
+	    {
+	        "name": "“Pure Unicorn”",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Unicorn ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CPure%20Unicorn”.png"
+	        }
+	    },
+	    {
+	        "name": "Palace Jailer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Palace%20Jailer.png"
+	        }
+	    },
+	    {
+	        "name": "Spiteful Denial",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Spiteful%20Denial.png"
+	        }
+	    },
+	    {
+	        "name": "Retaliation Golem",
+	        "rarity": "uncommon",
+	        "mana_cost": "{7}",
+	        "type": "Artifact Creature — Golem Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Retaliation%20Golem.png"
+	        }
+	    },
+	    {
+	        "name": "War-Zone Survivor",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/War-Zone%20Survivor.png"
+	        }
+	    },
+	    {
+	        "name": "“Powered Golem”",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Artifact Creature — Golem Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CPowered%20Golem”.png"
+	        }
+	    },
+	    {
+	        "name": "“I'm Monarch, Get a Life”",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CI%27m%20Monarch%2c%20Get%20a%20Life”.png"
+	        }
+	    },
+	    {
+	        "name": "Archetype of Revolution",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{G}{G}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Archetype%20of%20Revolution.png"
+	        }
+	    },
+	    {
+	        "name": "“Lawless Big Boy”",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CLawless%20Big%20Boy”.png"
+	        }
+	    },
+	    {
+	        "name": "Throne of the High City",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Throne%20of%20the%20High%20City.png"
+	        }
+	    },
+	    {
+	        "name": "Uphold the Puppet Regime",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Enchantment — Aura Curse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Uphold%20the%20Puppet%20Regime.png"
+	        }
+	    },
+	    {
+	        "name": "Coastside Drake",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Drake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Coastside%20Drake.png"
+	        }
+	    },
+	    {
+	        "name": "Mechanical Propulsion",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Mechanical%20Propulsion.png"
+	        }
+	    },
+	    {
+	        "name": "“Wheel of the Monarchy”",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CWheel%20of%20the%20Monarchy”.png"
+	        }
+	    },
+	    {
+	        "name": "Ensnared Knowledge",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{U}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Ensnared%20Knowledge.png"
+	        }
+	    },
+	    {
+	        "name": "Lavessa, Cunning Opportunist",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Legendary Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Lavessa%2c%20Cunning%20Opportunist.png"
+	        }
+	    },
+	    {
+	        "name": "“Ritual Sacrifices”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CRitual%20Sacrifices”.png"
+	        }
+	    },
+	    {
+	        "name": "Sudden Departure",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Sudden%20Departure.png"
+	        }
+	    },
+	    {
+	        "name": "“Impulse All the Draws”",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CImpulse%20All%20the%20Draws”.png"
+	        }
+	    },
+	    {
+	        "name": "Worldfury Elemental",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Worldfury%20Elemental.png"
+	        }
+	    },
+	    {
+	        "name": "Treasure Hoarder Dragon",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{R}{R}{R}",
+	        "type": "Legendary Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Treasure%20Hoarder%20Dragon.png"
+	        }
+	    },
+	    {
+	        "name": "Castigate the Pariah",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Castigate%20the%20Pariah.png"
+	        }
+	    },
+	    {
+	        "name": "Poison-Tipped Univolk",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Poison-Tipped%20Univolk.png"
+	        }
+	    },
+	    {
+	        "name": "Panglacial Wurm",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{G}{G}",
+	        "type": "Creature — Wurm ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Panglacial%20Wurm.png"
+	        }
+	    },
+	    {
+	        "name": "Spinner of the Endless Swarm",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Spider ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Spinner%20of%20the%20Endless%20Swarm.png"
+	        }
+	    },
+	    {
+	        "name": "Essence of the Forest",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Legendary Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Essence%20of%20the%20Forest.png"
+	        }
+	    },
+	    {
+	        "name": "Fall of the Kingdom",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Fall%20of%20the%20Kingdom.png"
+	        }
+	    },
+	    {
+	        "name": "“Phasing Mana”",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Conspiracy",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CPhasing%20Mana”.png"
+	        }
+	    },
+	    {
+	        "name": "Ritual of Unrest",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{B}{B}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Ritual%20of%20Unrest.png"
+	        }
+	    },
+	    {
+	        "name": "Yormeba's Locket",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Yormeba%27s%20Locket.png"
+	        }
+	    },
+	    {
+	        "name": "Time Loop",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Time%20Loop.png"
+	        }
+	    },
+	    {
+	        "name": "“Shared Wish”",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CShared%20Wish”.png"
+	        }
+	    },
+	    {
+	        "name": "Ritual of Day and Night",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Conspiracy",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Ritual%20of%20Day%20and%20Night.png"
+	        }
+	    },
+	    {
+	        "name": "“Rainy Day Preparations”",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Conspiracy",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CRainy%20Day%20Preparations”.png"
+	        }
+	    },
+	    {
+	        "name": "Myriad Landscape",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Myriad%20Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Rift Bound Fiend",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Demon Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Rift%20Bound%20Fiend.png"
+	        }
+	    },
+	    {
+	        "name": "Gambler's Time Jump",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{U}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Gambler%27s%20Time%20Jump.png"
+	        }
+	    },
+	    {
+	        "name": "Rite of Freedom",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Rite%20of%20Freedom.png"
+	        }
+	    },
+	    {
+	        "name": "Reality Barrier",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Reality%20Barrier.png"
+	        }
+	    },
+	    {
+	        "name": "Unified Kitten",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Unified%20Kitten.png"
+	        }
+	    },
+	    {
+	        "name": "Umbralsight Lantern",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Conspiracy",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Umbralsight%20Lantern.png"
+	        }
+	    },
+	    {
+	        "name": "“sudo-boardwipe”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9Csudo-boardwipe”.png"
+	        }
+	    },
+	    {
+	        "name": "Natrue's Saving Grasp",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Natrue%27s%20Saving%20Grasp.png"
+	        }
+	    },
+	    {
+	        "name": "“Flipy Spell”",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/%E2%80%9CFlipy%20Spell”.png"
+	        }
+	    },
+	    {
+	        "name": "Firestorm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Firestorm.png"
+	        }
+	    },
+	    {
+	        "name": "Royal Vizier",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tess-y/CZH/refs/heads/main/CZH-files/Royal%20Vizier.png"
+	        }
+	    }
+	]
+
+[Settings]
+{
+	"layouts": {
+		"Default": {
+			"weight": 1,
+			"slots": [
+				{
+					"name": "RareOrMythic",
+					"count": 1,
+					"sheets": [
+						{"name": "Rare",   "weight": 7},
+						{"name": "Mythic", "weight": 1}
+					]
+				},
+				{"name": "Uncommon", "count": 3 },
+				{"name": "Common",   "count": 10},
+				{
+					"name": "Conspiracy",
+					"count": 1,
+					"sheets": [
+						{"name": "ConspiracyM", "weight": 1},
+						{"name": "ConspiracyR", "weight": 3},
+						{"name": "ConspiracyU", "weight": 12},
+						{"name": "ConspiracyC", "weight": 20},
+					]
+				}
+			]
+		}
+	}
+}
+
+
+[Common]
+Alert the Guard
+Castle Sentry
+Disenchant
+Gatehouse Sentinel
+Golden Pegasus
+Knight of the Royal Guard
+Line of Succession
+Long Live the Queen
+Prepared Defenses
+Queen's Guard
+Royal Knighting
+“Helping Flyer”
+“Pure Unicorn”
+“Rejuvenating Soldier”
+“Stop Attacking Me”
+Bound to the Rift
+Coastside Drake
+Council Archivist
+Disinstantiate
+Essence Shape
+Guard Golem
+Loyalist Frost-Mage
+Otherworldly Fae
+Search for Knowledge
+Shaper Apprentice
+Void Giant
+Wall of Void
+“Majesty's Librarian”
+“Phase Dork”
+“Slow Counter”
+Dark Cleric
+Kiingal Assasin
+Lavessa's Assassin
+Lavessa's Envoy
+Murderous Preparation
+Oblational Killing
+Path of Shadow
+Reconstructed Skeleton
+Ritual Culling
+Shadow Guild Blackhand
+Usurp the Throne
+“Hidden Card Thief”
+“Hidden Cut”
+“Mind Rot, But Its a Creature Now”
+“Someone's Gonna Die”
+Act of Violence
+Apprentice Armorer
+Arm for War
+Down With the Queen
+Instigate
+Laccolith Rig
+Lightning Charger
+Searing Halberd
+Spark Rebellion
+War Goblin
+“Bold of Appointing”
+“Crown Giver”
+“Freedom Fighter”
+“Monarch Bringer”
+“Monarch Shock”
+Adventuring Grazer
+Arbor Elf
+Crown Breaker
+Deadly Recluse
+Fall of the Kingdom
+Forest's Protection
+Forest's Strength
+Horror of Crownbreakers Forest
+Invigorate
+Prosperous Growth
+Shatter the Throne
+Warden of Growth
+Wild Wolf
+“Be Gone Works of Man”
+“Cycling wurm”
+Crown Taker's Dagger
+Dagger of Darkness
+Yormeba's Locket
+[Uncommon]
+Coronation Ceremony
+Court's Impasse
+Day of Peace
+Endless Festivities
+Palace High Guard
+Palace Jailer
+Patrol General
+Peacekeeper
+Tithes for the Throne
+“sudo-boardwipe”
+Cyclical Visions
+Dissuading Advice
+Loyalty to the Throne
+Reinstantiate
+Ripped from Reality
+Rumor Network
+Shifting Steelsculpt
+Zhalfirin Library
+“Flipy Spell”
+“Golem Lord”
+Coffin Upheaval
+Royal Assassination
+Spiteful Denial
+“Card Draw, Creaure Included”
+“Crown Taker”
+“Kill for the Thrown”
+“My Crown, Not Yours”
+“Ritual Sacrifices”
+“Stabby Stab”
+Arc Blade
+Crown-Breaker Recruit
+Endless Revolution
+Firestorm
+Forge Armor
+Forge Master
+Molten Blast
+Rebellious Pyromancer
+Volt-Surge Dagger
+“Blade of Swiftness”
+Crownbreaker's Forest
+Glade-Skin Univolk
+Natrue's Saving Grasp
+Nature's Might
+Nature's Uprising
+Oscillating Growth
+Terrain Seeker
+Wolf Caller
+“Gardener”
+“Mana Dork”
+Blade of Heros
+Crownbreaker Foundry
+Palace Rot-Gardener
+Shadowsculptor
+“Knights and Ramp”
+“Menace to the Throne”
+“Monarch Based Pillow Fort”
+“Monarch's Blade”
+“Resurrection!”
+“Royal Beating”
+Blood Stone
+Companion Stone
+Essence Stone
+Rage Stone
+Retaliation Golem
+Thought Stone
+“Champion Equipment”
+“Shifting Blade”
+“Sword of War”
+Myriad Landscape
+Zhalfiran Rift
+[Rare]
+Forming of the Guilds
+Loyalist Legion
+Riftquake
+Strength of the Guilds
+Teferi's Protection
+Unified Kitten
+Yormeba, Heir to the Throne
+“I'm Monarch, Get a Life”
+“Platinum Throne”
+Ensnared Knowledge
+Mechanical Propulsion
+Rift Tainted Advisor
+Royal Accountant
+Time Loop
+“Powered Golem”
+“Wheel of the Monarchy”
+Cloak of Darkness
+Lavessa, Cunning Opportunist
+Mhagru, Grave Caller
+Palace Crypt
+Rift Bound Fiend
+Sudden Departure
+Uphold the Puppet Regime
+War-Zone Survivor
+Castigate the Pariah
+Crown-hunter's Frenzy
+Hate-Fused Blade
+Master War Smith
+Treasure Hoarder Dragon
+Worldfury Elemental
+“Impulse All the Draws”
+Archetype of Revolution
+Avatar of Anarchy
+Essence of the Forest
+Panglacial Wurm
+Poison-Tipped Univolk
+Spinner of the Endless Swarm
+“Lawless Big Boy”
+Assault Captain
+Cease Existence
+Corrupted Delegate
+Nerys, Loyal to the Crown
+Reality Barrier
+Riot Instigator
+Rite of Freedom
+Time Flux
+“Shared Wish”
+High Throne of Zhalfir
+Makeshift Flail
+Soulbound Blade
+Throne of the High City
+[Mythic]
+Alicia, Sworn to the Queen
+Civic Archmage
+Shaper Archmage
+Teferi's Undoing
+Ritual of Unrest
+Royal Vizier
+Shadow Archmage
+Armorer Archmage
+Granger Archmage
+Gambler's Time Jump
+The High Council
+Teferi, Protector of the City
+Zett, The Bloody Hilt
+[ConspiracyC]
+Emergency Council
+The Rift's Influence
+Sentenced to Death
+“Red Flip Conspiracy”
+Nature's Anarchy
+[ConspiracyU]
+Civic Guild's Council
+Shadow Guild's Council
+Armorer Guild's Council
+Shaper Guild's Council
+Granger Guild's Council
+Birthright
+[ConspiracyR]
+Council's Renovations
+Ritual of Day and Night
+Umbralsight Lantern
+“Phasing Mana”
+[ConspiracyM]
+Convening of the Council
+“Rainy Day Preparations”
+
